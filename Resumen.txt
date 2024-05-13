@@ -1,0 +1,112 @@
+01-introduccion:
+app: Ejemplo basico de JavaScript
+--------------------------------------
+02-variables:
+app: Variable var
+app2: Variable let
+app3: Variable const
+--------------------------------------
+03-strings:
+app: Crear strings
+app2: Tamaño de un string
+app3: Concatenar cadenas
+app4: Eliminar espacios
+app5: Eliminar o reemplazar parte de un string
+app6: Repetir o dividir un string
+app7: Mayusculas, minusculas y conversion a string
+--------------------------------------
+04-numeros:
+app: Valores numericos
+app2: Operaciones basicas
+app3: Funciones Math.
+app4: Aumentar (++) y decrementar (--)
+app5: parseInt y parseFloat
+--------------------------------------
+05-operadores:
+app: Mayor y menor (<, >)
+app2: Comparacion (===, !==)
+app3: null y undefined
+--------------------------------------
+06-booleans:
+app: true, false, ,typeof
+app2: Operador !
+--------------------------------------
+07-objetos-literales
+app: Retornar valores (.keys .values y .entries)
+app2: Modificar valores
+app3: Agregar y eliminar propiedades
+app4: Destructurar objetos
+app5: Objetos anidados
+app6: Anidar propiedades
+app7: "use strict" (.freeze)
+app8: "use strict" (.seal)
+app9: Copiar valores (.assign)
+app10: Objeto constructor (this. y new)
+--------------------------------------
+08-funciones:
+app: Declaracion de funciones
+app2: Funciones nativas
+app3: Parametros
+app4: Llamar funciones
+app5: Funciones return
+app6: Objeto con funciones
+app7: Funcion Flecha/Arrow Function
+app8: Ejemplos
+app9: Objeto con funciones flecha
+--------------------------------------
+09-arreglos:
+app: Datos en arreglos
+app2: Recorrer arreglos (for)
+app3: Agregar valores (.push y .unshift)
+app4: Segunda forma de agregar valores
+app5: Eliminar valores (.shift .pop y .splice)
+app6: Seleccionar elementos
+app7: Recorrer arreglos (.forEach)
+app8: Recorrer arreglos (.map)
+--------------------------------------
+10-estructuras-control:
+app: Condiciones if
+app2: Operadores menor y mayor
+app3: Ejemplo
+app4: Switch
+app5: if de forma breve
+--------------------------------------
+11-iteradores:
+app: Ciclo For
+app2: break
+app3: Ejercicio FizzBuzz
+app4: Ciclo While, Fizzbuzz con While
+app5: Ciclo do While
+app6: Ciclo forEach
+app7: Ciclo for...of
+app8: Ciclo for...in
+-------------------------------------
+12-array-methods:
+app: includes(), some()
+app2: findIndex()
+app3: reduce()
+app4: filter()
+app5: find()
+app6: every()
+app7: concat(), spread operator
+-------------------------------------
+13-DOM:
+app: Seleccionar elementos del HTML
+app2: Seleccionar elementos por clase
+app3: Seleccionar elementos por id
+app4: querySelector()
+app5: querySelectorAll()
+app6: Modificar texto o imagen
+app7: Modificar estilos, agregar clases
+app8: Recorrer elementos padre e hijos
+app9: Eliminar elementos
+app10: Creacion de elementos
+app11: Mostrar y ocultar footer
+-------------------------------------
+14-eventos:
+app: DOMContentLoaded
+app2: Eventos del cursor
+app3: Eventos con teclas
+app4: Validacion del formulario
+app5: Evento scroll
+-------------------------------------
